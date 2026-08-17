@@ -1,6 +1,7 @@
 build/
-tesseract/*.exe
+dist/
 *.pkg
+*.exe
 .venv/
 __pycache__/
 *.pyc
