@@ -1,0 +1,6 @@
+build/
+tesseract/*.exe
+*.pkg
+.venv/
+__pycache__/
+*.pyc
