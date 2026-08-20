@@ -23,7 +23,7 @@ And now you're greeted by the settings window:
 
 
 
-For the most part, you’ll only need to add two folders: the folder where your scanner saves the documents, and the folder where the program will save the renamed documents. The first one called *`'Папка для сканов'`* and the second *`'Папка готовых документов'`*. The both are highlighted in bold. You can select the required folders by clicking on the button to the right of the empty windows with the border. On the second tab, you can enter the name of your company. This way, you’ll make it clear to it which company not to include in the name. These settings will be enough. If you want to learn about all the remaining available features, I'll write about them below.
+For the most part, you’ll only need to add two folders: the folder where your scanner saves the documents, and the folder where the program will save the renamed documents. The first one called `'Папка сканов'` and the second *`'Папка готовых документов'`*. The both are highlighted in bold. You can select the required folders by clicking on the button to the right of the empty windows with the border. On the second tab, you can enter the name of your company. This way, you’ll make it clear to it which company not to include in the name. These settings will be enough. If you want to learn about all the remaining available features, I'll write about them below.
 If you are ready, save your settings by clicking the button in the bottom right corner (`'Сохранить и начать работу'`). If you don't want to save them - click on the button to the left (`'Отменить'`)  
 
 If you want to run an app, you need to click on the green button (`'ЗАПУСТИТЬ'`), to stop it just click on the same but now red button (`'ОСТАНОВИТЬ'`)
